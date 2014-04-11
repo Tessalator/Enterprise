@@ -1,4 +1,4 @@
 Enterprise
 ==========
 
-Organizational profiling, change management, and project planning
+A Standardized Reference Model for Business Analysis and Systems Development
